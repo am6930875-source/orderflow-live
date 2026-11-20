@@ -3,5 +3,5 @@
 <meta http-equiv="refresh" content="0;url=https://footwear-live-mas-colon.trycloudflare.com/">
 <title>OrderFlow - Live</title>
 <script>
-(function(){var p=location.pathname.replace(/^\/orderflow\/?/,'');location.replace('https://footwear-live-mas-colon.trycloudflare.com'+(p?'/'+p:'/')+location.search);})();
+(function(){var p=location.pathname.replace(/^\/orderflow(?:-live)?\/?/,'');location.replace('https://footwear-live-mas-colon.trycloudflare.com'+(p?'/'+p:'/')+location.search);})();
 </script></head><body><a href="https://footwear-live-mas-colon.trycloudflare.com/">Open OrderFlow</a></body></html>
