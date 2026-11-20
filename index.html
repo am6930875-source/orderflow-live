@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="refresh" content="0;url=https://footwear-live-mas-colon.trycloudflare.com/">
+<title>OrderFlow - Live</title>
+<script>
+(function(){var p=location.pathname.replace(/^\/orderflow\/?/,'');location.replace('https://footwear-live-mas-colon.trycloudflare.com'+(p?'/'+p:'/')+location.search);})();
+</script></head><body><a href="https://footwear-live-mas-colon.trycloudflare.com/">Open OrderFlow</a></body></html>
